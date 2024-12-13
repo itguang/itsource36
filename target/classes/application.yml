@@ -9,7 +9,7 @@ server:
 spring:
     datasource:
         driverClassName: com.mysql.cj.jdbc.Driver
-        url: jdbc:mysql://localhost:13306/itsource36?useUnicode=true&characterEncoding=utf8&autoReconnect=true&useSSL=false&serverTimezone=UTC&createDatabaseIfNotExist=true
+        url: jdbc:mysql://localhost:13306/itsource00?useUnicode=true&characterEncoding=utf8&autoReconnect=true&useSSL=false&serverTimezone=UTC&createDatabaseIfNotExist=true
         username: root
         password: root
 
